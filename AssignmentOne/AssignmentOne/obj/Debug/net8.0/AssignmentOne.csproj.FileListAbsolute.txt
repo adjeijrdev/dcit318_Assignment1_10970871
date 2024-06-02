@@ -1,0 +1,14 @@
+C:\Users\dansa\Documents\Dcit318\AssignmentOne\AssignmentOne\bin\Debug\net8.0\AssignmentOne.exe
+C:\Users\dansa\Documents\Dcit318\AssignmentOne\AssignmentOne\bin\Debug\net8.0\AssignmentOne.deps.json
+C:\Users\dansa\Documents\Dcit318\AssignmentOne\AssignmentOne\bin\Debug\net8.0\AssignmentOne.runtimeconfig.json
+C:\Users\dansa\Documents\Dcit318\AssignmentOne\AssignmentOne\bin\Debug\net8.0\AssignmentOne.dll
+C:\Users\dansa\Documents\Dcit318\AssignmentOne\AssignmentOne\bin\Debug\net8.0\AssignmentOne.pdb
+C:\Users\dansa\Documents\Dcit318\AssignmentOne\AssignmentOne\obj\Debug\net8.0\AssignmentOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dansa\Documents\Dcit318\AssignmentOne\AssignmentOne\obj\Debug\net8.0\AssignmentOne.AssemblyInfoInputs.cache
+C:\Users\dansa\Documents\Dcit318\AssignmentOne\AssignmentOne\obj\Debug\net8.0\AssignmentOne.AssemblyInfo.cs
+C:\Users\dansa\Documents\Dcit318\AssignmentOne\AssignmentOne\obj\Debug\net8.0\AssignmentOne.csproj.CoreCompileInputs.cache
+C:\Users\dansa\Documents\Dcit318\AssignmentOne\AssignmentOne\obj\Debug\net8.0\AssignmentOne.dll
+C:\Users\dansa\Documents\Dcit318\AssignmentOne\AssignmentOne\obj\Debug\net8.0\refint\AssignmentOne.dll
+C:\Users\dansa\Documents\Dcit318\AssignmentOne\AssignmentOne\obj\Debug\net8.0\AssignmentOne.pdb
+C:\Users\dansa\Documents\Dcit318\AssignmentOne\AssignmentOne\obj\Debug\net8.0\AssignmentOne.genruntimeconfig.cache
+C:\Users\dansa\Documents\Dcit318\AssignmentOne\AssignmentOne\obj\Debug\net8.0\ref\AssignmentOne.dll

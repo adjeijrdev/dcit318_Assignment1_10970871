@@ -1,0 +1,14 @@
+C:\Users\dansa\Documents\Dcit318\TriangleTypeIndentifier\TriangleTypeIndentifier\bin\Debug\net8.0\TriangleTypeIndentifier.exe
+C:\Users\dansa\Documents\Dcit318\TriangleTypeIndentifier\TriangleTypeIndentifier\bin\Debug\net8.0\TriangleTypeIndentifier.deps.json
+C:\Users\dansa\Documents\Dcit318\TriangleTypeIndentifier\TriangleTypeIndentifier\bin\Debug\net8.0\TriangleTypeIndentifier.runtimeconfig.json
+C:\Users\dansa\Documents\Dcit318\TriangleTypeIndentifier\TriangleTypeIndentifier\bin\Debug\net8.0\TriangleTypeIndentifier.dll
+C:\Users\dansa\Documents\Dcit318\TriangleTypeIndentifier\TriangleTypeIndentifier\bin\Debug\net8.0\TriangleTypeIndentifier.pdb
+C:\Users\dansa\Documents\Dcit318\TriangleTypeIndentifier\TriangleTypeIndentifier\obj\Debug\net8.0\TriangleTypeIndentifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dansa\Documents\Dcit318\TriangleTypeIndentifier\TriangleTypeIndentifier\obj\Debug\net8.0\TriangleTypeIndentifier.AssemblyInfoInputs.cache
+C:\Users\dansa\Documents\Dcit318\TriangleTypeIndentifier\TriangleTypeIndentifier\obj\Debug\net8.0\TriangleTypeIndentifier.AssemblyInfo.cs
+C:\Users\dansa\Documents\Dcit318\TriangleTypeIndentifier\TriangleTypeIndentifier\obj\Debug\net8.0\TriangleTypeIndentifier.csproj.CoreCompileInputs.cache
+C:\Users\dansa\Documents\Dcit318\TriangleTypeIndentifier\TriangleTypeIndentifier\obj\Debug\net8.0\TriangleTypeIndentifier.dll
+C:\Users\dansa\Documents\Dcit318\TriangleTypeIndentifier\TriangleTypeIndentifier\obj\Debug\net8.0\refint\TriangleTypeIndentifier.dll
+C:\Users\dansa\Documents\Dcit318\TriangleTypeIndentifier\TriangleTypeIndentifier\obj\Debug\net8.0\TriangleTypeIndentifier.pdb
+C:\Users\dansa\Documents\Dcit318\TriangleTypeIndentifier\TriangleTypeIndentifier\obj\Debug\net8.0\TriangleTypeIndentifier.genruntimeconfig.cache
+C:\Users\dansa\Documents\Dcit318\TriangleTypeIndentifier\TriangleTypeIndentifier\obj\Debug\net8.0\ref\TriangleTypeIndentifier.dll
